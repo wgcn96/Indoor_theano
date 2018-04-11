@@ -1,0 +1,90 @@
+
+start time is: 2017-12-19 16:28:03
+
+this experiment hyperparameters are:
+config_file :/media/wangchen/newdata1/wangchen/work/Indoor/config/1219train_1.conf
+learning_rate = 0.0005
+batch_size = 26
+num_epoches = 200
+model_file :/media/wangchen/newdata1/wangchen/work/Indoor/models/best_model.pkl
+
+其余要说明的事项 ：这次实验是微调place预训练的权重,直接复制caffe的超参进行。
+
+Epoch 0: Train cost 3.20740151405, Train acc 0.231343283582, test acc 0.59552238806
+start time is: 2017-12-19 16:34:27
+
+this experiment hyperparameters are:
+config_file :/media/wangchen/newdata1/wangchen/work/Indoor/config/1219train_1.conf
+learning_rate = 0.0005
+batch_size = 24
+num_epoches = 200
+model_file :/media/wangchen/newdata1/wangchen/work/Indoor/models/best_model.pkl
+
+其余要说明的事项 ：这次实验是微调place预训练的权重,直接复制caffe的超参进行。
+
+Epoch 0: Train cost 3.13244795799, Train acc 0.246455223881, test acc 0.585074626866
+Epoch 0: Train cost 2.9386305809, Train acc 0.285074626866, test acc 0.614925373134
+Epoch 1: Train cost 1.18759655952, Train acc 0.6625, test acc 0.713432835821
+Epoch 2: Train cost 0.703652918339, Train acc 0.791417910448, test acc 0.717164179104
+Epoch 3: Train cost 0.457322359085, Train acc 0.858395522388, test acc 0.732089552239
+Epoch 4: Train cost 0.275795817375, Train acc 0.916791044776, test acc 0.741044776119
+Epoch 5: Train cost 0.179895043373, Train acc 0.946082089552, test acc 0.732835820896
+Epoch 6: Train cost 0.115454159677, Train acc 0.970149253731, test acc 0.74776119403
+Epoch 7: Train cost 0.0976585969329, Train acc 0.976679104478, test acc 0.733582089552
+Epoch 8: Train cost 0.0794073939323, Train acc 0.982276119403, test acc 0.740298507463
+Epoch 9: Train cost 0.0706534683704, Train acc 0.984328358209, test acc 0.716417910448
+Epoch 10: Train cost 0.0521959885955, Train acc 0.989552238806, test acc 0.75
+Epoch 11: Train cost 0.0478239580989, Train acc 0.989365671642, test acc 0.730597014925
+Epoch 12: Train cost 0.0411234274507, Train acc 0.991604477612, test acc 0.720149253731
+Epoch 13: Train cost 0.0336393453181, Train acc 0.99421641791, test acc 0.764179104478
+Epoch 14: Train cost 0.0424843356013, Train acc 0.992537313433, test acc 0.741044776119
+Epoch 15: Train cost 0.032761130482, Train acc 0.99421641791, test acc 0.759701492537
+Epoch 16: Train cost 0.041567530483, Train acc 0.990858208955, test acc 0.744776119403
+Epoch 17: Train cost 0.026861930266, Train acc 0.996268656716, test acc 0.744776119403
+Epoch 18: Train cost 0.0345785804093, Train acc 0.994029850746, test acc 0.75
+Epoch 19: Train cost 0.0222864020616, Train acc 0.997201492537, test acc 0.740298507463
+Epoch 20: Train cost 0.0195067282766, Train acc 0.998507462687, test acc 0.747014925373
+Epoch 21: Train cost 0.0207576472312, Train acc 0.997947761194, test acc 0.74776119403
+Epoch 22: Train cost 0.022294992581, Train acc 0.997388059701, test acc 0.761194029851
+Epoch 23: Train cost 0.0261468607932, Train acc 0.996082089552, test acc 0.735820895522
+Epoch 24: Train cost 0.0265921652317, Train acc 0.996082089552, test acc 0.741791044776
+Epoch 25: Train cost 0.0190332569182, Train acc 0.998320895522, test acc 0.758208955224
+Epoch 26: Train cost 0.0193841140717, Train acc 0.998507462687, test acc 0.742537313433
+Epoch 27: Train cost 0.0170455574989, Train acc 0.998694029851, test acc 0.75447761194
+Epoch 28: Train cost 0.0182805489749, Train acc 0.998134328358, test acc 0.730597014925
+Epoch 29: Train cost 0.0219575706869, Train acc 0.997574626866, test acc 0.75671641791
+Epoch 30: Train cost 0.0171518102288, Train acc 0.998507462687, test acc 0.765671641791
+Epoch 31: Train cost 0.0188443344086, Train acc 0.998134328358, test acc 0.750746268657
+Epoch 32: Train cost 0.0199610758573, Train acc 0.99776119403, test acc 0.755970149254
+Epoch 33: Train cost 0.0220037996769, Train acc 0.997201492537, test acc 0.741791044776
+Epoch 34: Train cost 0.0204151384532, Train acc 0.99776119403, test acc 0.763432835821
+Epoch 35: Train cost 0.0194782558829, Train acc 0.997574626866, test acc 0.765671641791
+Epoch 36: Train cost 0.0173031017184, Train acc 0.997947761194, test acc 0.761194029851
+Epoch 37: Train cost 0.0159140508622, Train acc 0.999253731343, test acc 0.773880597015
+Epoch 38: Train cost 0.0214734654874, Train acc 0.996828358209, test acc 0.75447761194
+Epoch 39: Train cost 0.0215108841658, Train acc 0.99776119403, test acc 0.757462686567
+Epoch 40: Train cost 0.0177918151021, Train acc 0.998134328358, test acc 0.759701492537
+Epoch 41: Train cost 0.0160313043743, Train acc 0.999067164179, test acc 0.765671641791
+Epoch 42: Train cost 0.0172370672226, Train acc 0.998507462687, test acc 0.749253731343
+Epoch 43: Train cost 0.019670188427, Train acc 0.998134328358, test acc 0.764925373134
+Epoch 44: Train cost 0.016888814047, Train acc 0.998694029851, test acc 0.764925373134
+Epoch 45: Train cost 0.0195343606174, Train acc 0.997388059701, test acc 0.758208955224
+Epoch 46: Train cost 0.0155900269747, Train acc 0.999067164179, test acc 0.758955223881
+Epoch 47: Train cost 0.017439711839, Train acc 0.998507462687, test acc 0.75447761194
+Epoch 48: Train cost 0.0192080121487, Train acc 0.997388059701, test acc 0.752985074627
+Epoch 49: Train cost 0.0200062803924, Train acc 0.997574626866, test acc 0.750746268657
+Epoch 50: Train cost 0.0228563714772, Train acc 0.996828358209, test acc 0.759701492537
+Epoch 51: Train cost 0.0183386206627, Train acc 0.998320895522, test acc 0.766417910448
+Epoch 52: Train cost 0.0159585624933, Train acc 0.998880597015, test acc 0.758208955224
+Epoch 53: Train cost 0.0172231383622, Train acc 0.998320895522, test acc 0.753731343284
+Epoch 54: Train cost 0.0166764259338, Train acc 0.998320895522, test acc 0.761940298507
+Epoch 55: Train cost 0.0169047322124, Train acc 0.998507462687, test acc 0.764925373134
+Epoch 56: Train cost 0.0167522821575, Train acc 0.998320895522, test acc 0.764925373134
+Epoch 57: Train cost 0.0171647854149, Train acc 0.998320895522, test acc 0.764925373134
+Epoch 58: Train cost 0.0157874412835, Train acc 0.998880597015, test acc 0.758955223881
+Epoch 59: Train cost 0.0161124095321, Train acc 0.998694029851, test acc 0.766417910448
+Epoch 60: Train cost 0.0169419050217, Train acc 0.998507462687, test acc 0.761940298507
+Epoch 61: Train cost 0.0169981606305, Train acc 0.998320895522, test acc 0.750746268657
+Epoch 62: Train cost 0.0197596978396, Train acc 0.99776119403, test acc 0.762686567164
+Epoch 63: Train cost 0.0155903687701, Train acc 0.998507462687, test acc 0.767910447761
+Epoch 64: Train cost 0.0219704825431, Train acc 0.997201492537, test acc 0.764179104478

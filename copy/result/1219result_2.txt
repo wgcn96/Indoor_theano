@@ -1,0 +1,27 @@
+start time is: 2017-12-19 19:42:26
+
+this experiment hyperparameters are:
+config_file :/media/wangchen/newdata1/wangchen/work/Indoor/config/1219train_2.conf
+learning_rate = 0.0005
+batch_size = 21
+num_epoches = 200
+model_file :/media/wangchen/newdata1/wangchen/work/Indoor/models/best_model_2.pkl
+
+其余要说明的事项 ：这次实验是微调image预训练的权重,直接复制caffe的超参进行。
+
+Epoch 0: Train cost 3.35872602463, Train acc 0.182649253731, test acc 0.441791044776
+start time is: 2017-12-19 19:47:32
+
+this experiment hyperparameters are:
+config_file :/media/wangchen/newdata1/wangchen/work/Indoor/config/1219train_2.conf
+learning_rate = 0.0005
+batch_size = 20
+num_epoches = 200
+model_file :/media/wangchen/newdata1/wangchen/work/Indoor/models/best_model_2.pkl
+
+其余要说明的事项 ：这次实验是微调image预训练的权重,直接复制caffe的超参进行。
+
+Epoch 0: Train cost 3.29427409172, Train acc 0.196455223881, test acc 0.414925373134
+Epoch 1: Train cost 1.8484569788, Train acc 0.48302238806, test acc 0.558208955224
+Epoch 2: Train cost 1.27091872692, Train acc 0.628544776119, test acc 0.599253731343
+Epoch 3: Train cost 0.905308961868, Train acc 0.720708955224, test acc 0.615671641791

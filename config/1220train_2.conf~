@@ -1,0 +1,11 @@
+learning_rate = 0.001
+batch_size = 20
+test_batch_size = 12
+num_epoches = 200
+learning_decay_step = 8
+learning_decay_mul = 0.92
+weight_decay = 1e-05
+model_url = /media/wangchen/newdata1/wangchen/work/Indoor/models/best_model.pkl
+resultFile_url = /media/wangchen/newdata1/wangchen/work/Indoor/result/1220result_1.txt
+reload_url = /media/wangchen/newdata1/wangchen/work/Indoor/models/caffe_vgg16_places.pkl
+extra = 微调place预训练的权重,learning rate decay,l2正则化。
